@@ -1,1 +1,4 @@
 me_ignore.txt
+
+*.py
+!arquivo2.py
